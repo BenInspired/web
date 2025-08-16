@@ -1,0 +1,3 @@
+name = "web"          # replace with your worker's name
+main = "src/index.js"              # path to your worker script
+compatibility_date = "2025-08-16" # today's date or whatever you want
