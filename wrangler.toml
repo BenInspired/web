@@ -1,0 +1,5 @@
+name = "beninspired-site"
+compatibility_date = "2025-08-16"
+
+[site]
+bucket = "."
