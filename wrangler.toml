@@ -1,8 +1,0 @@
-name = "beninspired-site"
-compatibility_date = "2025-08-16"
-
-[site]
-bucket = "."
-
-# Explicitly tell Wrangler not to use a Worker
-main = "./404.js"  # or any dummy file (optional workaround)
